@@ -4,12 +4,12 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Mi nombre es Bryan Rodriguez. Tengo las siguientes cualidades:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Hacer huevos fritos
+- Comerlos
 
-What else do you need?
+¿Qué más necesitas?
 
 ### My story
 
