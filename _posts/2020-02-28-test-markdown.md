@@ -1,20 +1,20 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+title: Ejemplo de entrada de blog
+#subtitle: Each post also has a subtitle
+#gh-repo: daattali/beautiful-jekyll
+#gh-badge: [star, fork, follow]
+#tags: [test]
 comments: true
 ---
 
-Esto es un demo para mostraros como escribir blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+Esto es un demo para mostraros como escribir blog posts con markdown.  I Le ruego encarecidamente [que se tome 5 minutos para aprender como escribir en markdown](https://markdowntutorial.com/) - le enseñare como transformar un texto regular en bold/italics/headings/tables/etc.
 
-**Here is some bold text**
+**Algo de bold text**
 
-## Here is a secondary heading
+## Aquí hay un titulo secundario
 
-Here's a useless table:
+Este es un ejemplo de tabla:
 
 | Number | Next number | Previous number |
 | :------ |:--- | :--- |
@@ -24,15 +24,15 @@ Here's a useless table:
 | Two | Three | One |
 
 
-How about a yummy crepe?
+posicion de imagen
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
-It can also be centered!
+Puede estar centrada tambien!
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
 
-Here's a code chunk:
+Algo de codigo:
 
 ~~~
 var foo = function(x) {
@@ -41,7 +41,7 @@ var foo = function(x) {
 foo(3)
 ~~~
 
-And here is the same code with syntax highlighting:
+el mismo codigo pero resaltado:
 
 ```javascript
 var foo = function(x) {
@@ -60,19 +60,19 @@ foo(3)
 {% endhighlight %}
 
 ## Boxes
-You can add notification, warning and error boxes like this:
+Puede agregar cuadros de notificación, advertencia y error como este:
 
 ### Notification
 
 {: .box-note}
-**Note:** This is a notification box.
+**Note:** Este es un cuadro de notificación..
 
 ### Warning
 
 {: .box-warning}
-**Warning:** This is a warning box.
+**Warning:** Este es un cuadro de advertencia.
 
 ### Error
 
 {: .box-error}
-**Error:** This is an error box.
+**Error:** Este es un cuadro de error.
