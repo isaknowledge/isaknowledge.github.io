@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Acerca de mí
 subtitle: Why you'd want to go on a date with me
 ---
 
@@ -16,6 +16,21 @@ Forkea este proyecto haciendo clic en el botón __*Fork*__ . Fork significa que 
 
 ![step1](/assets/img/fork.png)
 
-### My story
+### 2. Renombre el proyecto a `<yourusername>.github.io`
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Haga clic en __*Settings*__ en la parte superior (el icono de la rueda dentada) y en esa página tendrá la opción de cambiar el nombre del proyecto (*Nombre del repositorio*). Esto creará un sitio web con la plantilla **Beautiful Jekyll** que estará disponible en `https://<yourusername>.github.io` en un par de minutos (consulte las [FAQ](https://beautifuljekyll. com/faq/#custom-domain) si desea utilizar un nombre de proyecto diferente). Si después de unos minutos su sitio web aún no está listo, intente editar cualquier archivo, solo para obligar a GitHub a reconstruir su sitio.
+
+![step2](/assets/img/settings.png)
+
+### 3. Customiza tu página
+
+Edite el archivo `_config.yml` para cambiar cualquier configuración que desee. Para editar el archivo, haga clic en él para verlo y luego haga clic en el icono del lápiz para editarlo. Las configuraciones en el archivo se explican por sí mismas y hay comentarios dentro del archivo para ayudar a comprender lo que hace cada configuración. Cualquier línea que comience con un hashtag (`#`) es un comentario, y las otras líneas son configuraciones reales.
+
+![step3](/assets/img/config.png)
+
+### 4. Felicidades, ya tenemos nuestra página
+
+Después de guardar los cambios en el archivo `_config.yml` (haciendo clic en *Confirmar cambios*), tu sitio web debería estar listo en uno o dos minutos en `https://<tunombredeusuario>.github. yo`. Cada vez que realice un cambio en cualquier archivo, su sitio web se reconstruirá y debería actualizarse en aproximadamente un minuto. Su sitio web se inicializará con varias publicaciones de blog de muestra y un par de otras páginas.
+
+![step4](/assets/img/myWebsite.png)
+
