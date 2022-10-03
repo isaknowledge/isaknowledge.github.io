@@ -10,6 +10,13 @@ Mi nombre es Bryan Rodriguez. Soy estudiante de 2º de DAW.
 
 # Como construir tu página web: 
 
+### Generador de páginas utilizado
+
+Jekyll es un generador de sitios estáticos simple, compatible con blogs, perfecto para sitios personales, de proyectos o de organizaciones. Piense en ello como un CMS basado en archivos, sin toda la complejidad. Jekyll toma su contenido, presenta plantillas de Markdown y Liquid, y crea un sitio web completo y estático listo para ser servido por Apache, Nginx u otro servidor web. Jekyll es el motor detrás de las páginas de GitHub, que puede usar para alojar sitios directamente desde sus repositorios de GitHub.
+
+![step0](/assets/img/jamstack.png)
+
+
 ### 1. Forkea este proyecto
 
 Forkea este proyecto haciendo clic en el botón __*Fork*__ . Fork significa que ahora copió todo este proyecto y todos los archivos en su cuenta.
