@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Isa Restaurante by Four Seasons
+title: Isa Restaurante
 subtitle: by Four Seasons
 cover-img: /assets/img/isaBar.jpg
 thumbnail-img: /assets/img/jSetjio.jpg
