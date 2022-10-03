@@ -2,8 +2,8 @@
 layout: post
 title: Isa Restaurante by Four Seasons
 subtitle: by Four Seasons
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/jSetjio.png
+cover-img: /assets/img/isaBar.jpg
+thumbnail-img: /assets/img/jSetjio.jpg
 share-img: /assets/img/isaBar.jpg
 tags: [books, test]
 ---
