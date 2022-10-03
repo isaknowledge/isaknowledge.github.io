@@ -3,9 +3,9 @@ layout: post
 title: Isa Restaurante
 subtitle: by Four Seasons
 cover-img: /assets/img/isaBar.jpg
-thumbnail-img: /assets/img/jSetjio.jpg
+thumbnail-img: /assets/img/jSetjo.jpg
 share-img: /assets/img/isaBar.jpg
-tags: [books, test]
+#tags: [books, test]
 ---
 
 SA, el nombre propio que completa la propuesta gastro del Four Seasons Hotel Madrid y que promete revolucionar la escena social de la capital, abre sus puertas el próximo jueves 9 de diciembre, convirtiéndose en el punto de encuentro de todos aquellos dispuestos a vivir una experiencia vibrante a través de los cinco sentidos.
