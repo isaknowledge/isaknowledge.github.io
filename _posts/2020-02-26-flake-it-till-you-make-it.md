@@ -8,7 +8,7 @@ share-img: /assets/img/isaBar.jpg
 #tags: [books, test]
 ---
 
-SA, el nombre propio que completa la propuesta gastro del Four Seasons Hotel Madrid y que promete revolucionar la escena social de la capital, abre sus puertas el próximo jueves 9 de diciembre, convirtiéndose en el punto de encuentro de todos aquellos dispuestos a vivir una experiencia vibrante a través de los cinco sentidos.
+ISA, el nombre propio que completa la propuesta gastro del Four Seasons Hotel Madrid y que promete revolucionar la escena social de la capital, abre sus puertas el próximo jueves 9 de diciembre, convirtiéndose en el punto de encuentro de todos aquellos dispuestos a vivir una experiencia vibrante a través de los cinco sentidos.
 
 Un nuevo “concepto líquido” a través de cócteles de autor de inspiración asiática que elevan la propuesta actual existente a un nivel superior buscando sorprender y cumplir con las expectativas de los más sibaritas.
 
