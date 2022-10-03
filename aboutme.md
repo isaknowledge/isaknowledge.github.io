@@ -4,12 +4,17 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-Mi nombre es Bryan Rodriguez. Tengo las siguientes cualidades:
+Mi nombre es Bryan Rodriguez. Soy estudiante de 2º de DAW.
 
-- Hacer huevos fritos
-- Comerlos
+- En este espacio voy a contarles que generador de páginas estaticas he utilizado para montarme esta misma, las configuraciones que he realizado.
 
-¿Qué más necesitas?
+# Como construir tu página web: 
+
+### 1. Forkea este proyecto
+
+Forkea este proyecto haciendo clic en el botón __*Fork*__ . Fork significa que ahora copió todo este proyecto y todos los archivos en su cuenta.
+
+![step1](/assets/img/fork.png)
 
 ### My story
 
