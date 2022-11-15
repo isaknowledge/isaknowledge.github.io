@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Ejemplo de entrada de blog
+title: Manuel Outumuro
 #subtitle: Each post also has a subtitle
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
 #tags: [test]
-cover-img: /assets/img/isaBar.jpg
-thumbnail-img: /assets/img/jSetjo.jpg
-share-img: /assets/img/isaBar.jpg
+cover-img: /assets/img/outumuro-land.jpeg
+thumbnail-img: /assets/img/outumuro.jpeg
+share-img: /assets/img/outumuro-land.jpeg
 comments: true
 ---
 
