@@ -5,6 +5,9 @@ title: Ejemplo de entrada de blog
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
 #tags: [test]
+cover-img: /assets/img/isaBar.jpg
+thumbnail-img: /assets/img/jSetjo.jpg
+share-img: /assets/img/isaBar.jpg
 comments: true
 ---
 
