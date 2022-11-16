@@ -21,7 +21,8 @@ Algunos se limitaron a disfrutar de la vida pero Outumuro aprovechó también pa
 
 Y todo cambió para la historia de la fotografía española. Outumuro empezó a fotografiar a las modelos emergentes, y aprendió una lección valiosa después de una de sus primeras sesiones con Carmen Maura. Es el tema central del capítulo. Y os aseguro que todos podemos aprovecharla... Y tal vez sea el secreto para ser como Manuel Outumuro.
 
-<iframe width="600" height = "420" src="https://www.youtube.com/watch?v=J9fjL54LrMU"> </iframe>
+<iframe width="600" height = "420" src="https://www.youtube.com/embed/J9fjL54LrMU"> </iframe>
+
 
 <!-- Esto es un demo para mostraros como escribir blog posts con markdown.  I Le ruego encarecidamente [que se tome 5 minutos para aprender como escribir en markdown](https://markdowntutorial.com/) - le enseñare como transformar un texto regular en bold/italics/headings/tables/etc. -->
 
