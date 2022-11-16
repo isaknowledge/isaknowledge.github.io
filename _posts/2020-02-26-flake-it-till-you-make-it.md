@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Isa Restaurante
+title: Hablemos del arte en discoteca
 subtitle: by Four Seasons
-cover-img: /assets/img/isaBar.jpg
-thumbnail-img: /assets/img/jSetjo.jpg
-share-img: /assets/img/isaBar.jpg
+cover-img: /assets/img/discoteca-isa.jpeg
+thumbnail-img: /assets/img/niño-pipa.jpg
+share-img: /assets/img/discoteca-isa.jpeg
 #tags: [books, test]
 ---
 
