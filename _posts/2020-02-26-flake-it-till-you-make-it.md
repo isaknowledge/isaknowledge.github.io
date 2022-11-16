@@ -32,7 +32,11 @@ La actriz Macarena Gómez se pone en la piel de La Chiquita Piconera, de Julio R
 
 **"Muchacho con Pipa"**
 
-![dama](/assets/img/ninopipa.jpg){: .mx-auto.d-block :}
+![dama](/assets/img/nino-pipa.jpg){: .mx-auto.d-block :}
+
+En 1905, Pablo Picasso, de 24 años, se instaló en París Montmartre, donde pronto escribió "El niño con la pipa" (1905, colección privada). Esta pintura al óleo sobre lienzo representa a un pequeño Louis (p'tit Louis, pit Louis), un adolescente local que asistía regularmente al taller del artista. En su mano izquierda sostiene una pipa, su cabeza está decorada con una corona de flores y se sienta en el fondo de un adorno floral. 
+
+Esta pintura, que se vendió en Sotheby's en mayo de 2004 por $ 104 millones, se refiere al "período rosado" en la obra de Picasso (1904 - 1906). Durante este período de tiempo, utilizó alegres tonos naranjas y rosas en sus pinturas, en contraste con los tonos fríos y sombríos del "período azul" anterior.
 
 **"El dios Marte"**
 
