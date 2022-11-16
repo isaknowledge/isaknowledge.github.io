@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hablemos del arte en discoteca
-subtitle: by Four Seasons
+subtitle: 
 cover-img: /assets/img/discoteca-isa.jpeg
 thumbnail-img: /assets/img/niño-pipa.jpg
 share-img: /assets/img/discoteca-isa.jpeg
