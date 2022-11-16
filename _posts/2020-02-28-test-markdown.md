@@ -22,7 +22,7 @@ Los mejores trabajos de Manuel Outumuro han sido recopilados en cinco libros de 
 Ha trabajado con una larga lista de grandes personajes del cine nacional e internacional donde encontramos nombres como el de Isabella Rossellini, Penélope Cruz, Nicole Kidman, Pedro Almodóvar, Jessica Lange o Isabel Coixet.
 
 
-<iframe width="600" height = "420" src="https://www.youtube.com/embed/J9fjL54LrMU"> </iframe>
+<iframe width="300" height = "210" src="https://www.youtube.com/embed/J9fjL54LrMU"> </iframe>
 
 
 Nadie queda indiferente ante sus retratos. Cualquiera querría posar frente a su cámara. Lo mismo sucede con sus fotografías de moda. Reconocibles por su estilo propio.
