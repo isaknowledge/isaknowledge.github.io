@@ -29,3 +29,15 @@ La actriz Macarena Gómez se pone en la piel de La Chiquita Piconera, de Julio R
 ![dama](/assets/img/dama-armino.jpg){: .mx-auto.d-block :}
 
 ‘La dama del armiño’ fue pintada por Leonardo da Vinci hacia 1490 y se conserva en el Museo Czartoryski de Cracovia, en Polonia, aunque durante un tiempo estuvo en Berlín, tras ser robada por el ejército nazi. Es uno de los cuatro retratos de mujer que se le atribuyen al genio florentino, además de La Gioconda y los de Ginevra de’Benci y La Belle Ferronière, y en él es notable el parecido entre la casi imperceptible sonrisa y la suave mano derecha de su protagonista y las de la Mona Lisa. Aquí es Leonor Watling quien se disfraza de esa casi niña de 17 años, llamada Cecilia Gallerani, y rehace su gesto ambiguo, donde se juntan y a la vez combaten la ambición de los ojos y postura del cuerpo, que muestra una gran serenidad, la virtud que simbolizaba en la Edad Media el animal que tiene en brazos, un armiño, que era también la seña de identidad del amante de la joven, un hombre llamado Ludovico El Moro, a quien Fernando I de Aragón, rey de Nápoles, había impuesto en 1488 la Orden del Armiño. La composición que hacen Outumuro y Watling transforma la fotografía en un teatro donde se representa el lienzo de Leonardo y su misterio: ¿qué miran la mujer y el animal, ella con tanto interés y un punto de burla, y él con una alarma que parece poner en tensión su cuerpo y situarle al borde de la huida? ¿Qué hay a su izquierda? Ese enigma es justamente lo que parece haber querido fotografiar Manuel Outumuro.
+
+**"Muchacho con Pipa"**
+
+![dama](/assets/img/ninopipa.jpg){: .mx-auto.d-block :}
+
+**"El dios Marte"**
+
+![dama](/assets/img/diosmarte.jpg){: .mx-auto.d-block :}
+
+VELÁZQUEZ PODRÍA haber pintado al dios de la guerra en acción, triunfante y victorioso; hubiese sido lo obvio, pero optó por recrearlo abatido y melancólico. Esa actitud elegida por el artista para plasmar el personaje es lo que más me fascina de este cuadro. Por un lado, una deidad humanizada y cercana, y por otro, un cuerpo de guerrero relajado y desnudo mostrando su vulnerabilidad.
+
+El dios Marte, de Diego Velázquez, aquí repite la simetría barroca del cuadro, que era un ataque al paganismo y una burla contra los dioses clásicos, que al ser tan humanos como este, tan próximos a la caricatura, obviamente no podían ser tomados en serio. Velázquez se inspiró para su sátira en una de las esculturas que talló Miguel Ángel para la tumba de los Médici, y Outumuro le sigue la broma en su fotografía. Hacer un homenaje siempre es cerrar un círculo.
