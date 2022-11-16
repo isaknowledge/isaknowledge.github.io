@@ -5,9 +5,9 @@ subtitle: Manuel Outumuro, el fotógrafo que vino de la aldea para deslumbrar al
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
 #tags: [test]
-cover-img: /assets/img/outumuro-land.jpeg
+cover-img: /assets/img/screen-outu.jpeg
 thumbnail-img: /assets/img/outumuro1.jpeg
-share-img: /assets/img/outumuro-land.jpeg
+share-img: /assets/img/screen-outu.jpeg
 comments: true
 ---
 
