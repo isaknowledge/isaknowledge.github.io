@@ -41,6 +41,10 @@ Como parte de su innovación tan característica, que se aplica también a su co
 Los amantes de “lo de siempre” podrán seguir disfrutando de los sabores minimalistas del maridaje de ISA con sus cócteles de autor basados en el camino del Haiku (tipo de poesía japonesa breve que es capaz de expresar la complejidad de los sentimientos en el mínimo número de palabras) que se aplica de manera sublime a su coctelería. Bajo este concepto la barra de ISA mantiene 9 elaboraciones diseñadas de manera elegante ofreciendo un camino de sabores que va avanzando de lo sutil a una propuesta cada vez más compleja.
 
 ISA demuestra, una vez más, su capacidad transgresora y de adaptación, esta vez encaminada a un nuevo concepto en el que sus comensales podrán disfrutar largo y tendido de las posibilidades de este inigualable concepto gastronómico y líquido que le caracteriza. Todo gracias a un equipo capaz de realizar toda una oda al mejor producto, presentado de forma innovadora y nada clásica. Ambos pilares que definen el éxito en ISA desde su apertura hace poco menos de un año.
+
+
+
+
 <!-- 
 - En este espacio voy a contarles que generador de páginas estaticas he utilizado para montarme esta misma, las configuraciones que he realizado.
 
