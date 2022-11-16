@@ -36,7 +36,7 @@ Cócteles Sakura: nueva propuesta de maridaje en la que encontrar sabores único
 
 Como parte de su innovación tan característica, que se aplica también a su coctelería, el equipo dirigido por Miguel Pérez, Head Bartender de ISA, lanza nueva sección en la carta: Cócteles Sakura. Tres nuevas creaciones de autor vibrantes y llenas de sabor donde, además, el juego de luces y humo juega un papel fundamental. Su esencia que fusiona ingredientes únicos que emanan de la naturaleza, da como resultado cócteles llamativos y llenos de personalidad dispuestos a sorprender. Desde Yakult, a base de Barsol pisco, yogur de fresa y flor de saúco que teletransporta automáticamente a la infancia, al sabor intenso con un toque ácido de Kaze donde el Tequila El Jimador es mezclado de manera majestuosa con mandarina y guisante verde.
 
-![hakko](/assets/img/hakko.jpg{: .mx-auto.d-block :}
+![hakko](/assets/img/hakko.jpg){: .mx-auto.d-block :}
 
 Los amantes de “lo de siempre” podrán seguir disfrutando de los sabores minimalistas del maridaje de ISA con sus cócteles de autor basados en el camino del Haiku (tipo de poesía japonesa breve que es capaz de expresar la complejidad de los sentimientos en el mínimo número de palabras) que se aplica de manera sublime a su coctelería. Bajo este concepto la barra de ISA mantiene 9 elaboraciones diseñadas de manera elegante ofreciendo un camino de sabores que va avanzando de lo sutil a una propuesta cada vez más compleja.
 
