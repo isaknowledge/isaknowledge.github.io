@@ -14,7 +14,7 @@ Estas fotografías que parecen pinturas son obra del gran fotografo español Man
 
 En total son 10 las fotos que son parte de este reportaje pero me voy a centrar en 4 de estas que son justo las que tenemos en Isa, voy contarles un poco de historia, detalles y curiosidades de cada una de ellas. A continuación dejare un video que muestra el trabajo que hay detrás de la obra fotográfica.
 
-<iframe width="450" height = "420" src="https://www.youtube.com/embed/I3kW_doWgc"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_I3kW_doWgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Empezemos hablando de la representación de 
 
